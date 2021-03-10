@@ -22,7 +22,7 @@ defmodule Serum.MarkdownTest do
   <img src="%media:images/sample.png" alt="Sample picture">
 
   ## Prism HTML tags are applied
-  
+
   ```elixir
   defmodule Awesome do
   end
